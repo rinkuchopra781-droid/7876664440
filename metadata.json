@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Survey Level Calculator",
+  "description": "A web-based tool to compute survey levels (HI/RL) from a CSV file of readings. Upload a CSV with Station, Type (BM, BS, IS, FS), and Value columns to calculate the height of instrument and reduced levels for each point.",
+  "requestFramePermissions": []
+}
